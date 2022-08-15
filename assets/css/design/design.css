@@ -1,0 +1,37 @@
+.design {
+    font-family: var(--fonte-do-texto);
+    margin-left: 30%;
+    
+}
+
+.vaga__design {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 1em 0;
+    
+   
+}
+
+.vaga__design--card {
+    border: solid 1px var(--cinza-borda);
+    border-radius: 16px;
+    width: 40vw;
+    padding: 2em;
+    margin:1em 0;
+}
+
+.vaga__titulo {
+    font-size: 18px;
+    margin-top: 4em;
+}
+
+.informacao {
+    color: var(--cinza);
+    font-size: 16px;
+    padding-top: 4em;
+       
+}
+
+.informacao--texto {
+    margin-right: 1em;
+}

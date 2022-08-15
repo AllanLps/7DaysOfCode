@@ -1,0 +1,20 @@
+@import url(./cabecalho/cabecalho.css);
+@import url(./main/main.css);
+@import url(./sobre/sobre.css);
+@import url(./vagas/vagas.css);
+@import url(./design/design.css);
+@import url(./colaboradores/colaboradores.css);
+@import url(./rodape/rodape.css);
+
+:root {
+    --branco: #ffffff; 
+    --branco-footer: #F9FAFB;
+    --cinza: #667085;
+    --cinza-email:#D0D5DD;
+    --cinza-borda: #EAECF0; 
+    --vermelho: #8E2424;
+    --caixa: rgba(142, 36, 36, 0.05);
+    --fonte-do-texto: "Inter"
+}
+
+

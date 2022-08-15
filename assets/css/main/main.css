@@ -1,0 +1,26 @@
+.main {
+    align-items: center;
+    font-family: var(--fonte-do-texto);
+    text-align: center;
+    margin-top: 6em;
+}
+
+.principal__sobreNos {
+    color: var(--vermelho);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.principal__titulo {
+    font-size: 48px;
+    padding: 0.5em;
+    font-weight: 600;
+}
+
+.principal__texto {
+    color: var(--cinza);
+    font-size: 20px;
+    font-weight: 400;
+    width: 791px;
+    margin:auto;
+}
